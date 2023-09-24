@@ -1,0 +1,19 @@
+Run as far as you can! When the ball goes out of the screen it's game over! The walls will push you out of the screen, so avoid them.
+
+User Manual:
+SPACE - Jump
+UP KEY - Reverse Gravity (Gravity goes up)
+DOWN KEY - Revert Gravity (Gravity goes down)
+Z KEY - Pass through platforms
+
+There are several powerups and debuffs in the game!
+
+Power Ups:
+- Double Jump (Enables double jump)
+- Invincibility (Pass through walls)
+- Advance (Ball moves forward, giving more bufffer)
+
+Debuffs:
+- Speed Up (Scroll speed increases)
+- No Jump (Cannot jump)
+- Opacity (Cannot pass through platforms)
